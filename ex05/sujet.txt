@@ -1,0 +1,12 @@
+pour ce dernier exercice, amusez vous
+
+faite un programme qui:
+a execution demande combien vous voulez gagner 
+entre dans une boucle 
+
+analyse l'ecran et récupère le quotient (python peut le faire, man google)
+auto bet (en déplacant votre souris a votre place ou avec des input clavier, (python peut le faire, man google))
+analyse l'ecran et regarde si vous avez gagné ou perdu (python peut le faire, man google)
+
+si vous perdez, calcul combien il doit bet au prochain tour et boucle
+si vous gagnez, il vous congratule et exit en retournant combien vous avez gagné 

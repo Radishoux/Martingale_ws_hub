@@ -1,0 +1,13 @@
+pour ce troisieme exercice, ca se devient plus chaud
+
+faite un programme qui:
+
+a execution demande combien vous voulez gagner 
+attend une réponse
+demande le quota multiplicateur
+attend une réponse
+affiche
+combien vous devez bet (perdu_jusqua_maintenant + veugagner)/(quotient-1)
+
+si l'user fait comprendre au programme qu'il à perdu, le programme boucle
+sinon il le congratule et exit en retournant combien le joueur à gagné

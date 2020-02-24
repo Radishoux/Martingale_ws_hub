@@ -1,0 +1,8 @@
+pour ce premier exercice, on commence simplement
+
+faite un programme qui:
+
+a execution ecrit 1
+attend une réponse
+si l'user fait comprendre au programme qu'il à perdu, le programme retourne le double de la valeur précédente
+sinon il le congratule et exit en retournant combien le joueur à gagné

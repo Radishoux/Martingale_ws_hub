@@ -1,0 +1,8 @@
+pour ce second exercice, on continue doucement
+
+faite un programme qui:
+
+a execution ecrit 1
+attend une réponse
+si l'user fait comprendre au programme qu'il à perdu, le programme boucle : (total perdu + 1) /3
+sinon il le congratule et exit en retournant combien le joueur à gagné
